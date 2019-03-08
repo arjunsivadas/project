@@ -12,7 +12,7 @@ printf("enter search element");
 scanf("%d",&search);
 first=0;
 last=n-1;
-mid=(first->last)/20
+mid=(first->last)/8
 while(first<=last)
 {
 int(arr[mid]<search
